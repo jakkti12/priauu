@@ -1,0 +1,116 @@
+.navbar {
+    background-color: #ffffff;
+    
+}
+.img-logo-nav{
+	max-width: 100%;
+	width: 80px;
+}
+.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+}
+.register{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+}
+@media screen and (max-width:900px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: -10px;
+}
+	.register{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: -10px;
+}
+@media screen and (max-width:768px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 500px;
+}
+	.register{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 0px;
+}
+@media screen and (max-width:740px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 480px;
+}
+@media screen and (max-width:720px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 460px;
+}
+@media screen and (max-width:700px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 440px;
+}
+@media screen and (max-width:680px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 420px;
+}
+@media screen and (max-width:660px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 400px;
+}
+@media screen and (max-width:640px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 380px;
+}
+@media screen and (max-width:620px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 360px;
+}
+@media screen and (max-width:600px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 340px;
+}
+@media screen and (max-width:580px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 320px;
+}
+}
+@media screen and (max-width:575.20px){
+	.login{
+	color: #760687;
+	font-weight: bold;
+    font-family: 'Mitr', sans-serif;
+    margin-left: 0px;
+}
+}

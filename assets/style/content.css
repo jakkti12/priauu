@@ -1,0 +1,22 @@
+.img-content{
+	max-width: 100%;
+	width: 350px;
+	object-fit: cover;
+}
+.font1-content{
+	font-size: clamp(12px , 3.5vw ,20px);
+}
+.font2-content{
+	font-size: clamp(10px , 3.5vw ,16px);
+}
+@media screen and (max-width:480px){
+	.img-content{
+		max-width: 50%;
+	}
+	.font1-content{
+	margin-left: 20%;
+	}
+	.font2-content{
+	margin-left: 5%;
+	}
+}
